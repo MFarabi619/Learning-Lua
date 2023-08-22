@@ -1,0 +1,1 @@
+A collection of small projects for the purpose of learning Lua syntax.
